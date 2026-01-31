@@ -1,0 +1,36 @@
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"01-31-2026 13:33:37","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"01-31-2026 13:33:37","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"01-31-2026 17:07:59","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"01-31-2026 17:07:59","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"01-31-2026 17:11:57","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"01-31-2026 17:11:57","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:45","correlationId":"635988ed-7b55-4670-99b6-b72251b781ca","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:45","correlationId":"635988ed-7b55-4670-99b6-b72251b781ca","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:45","correlationId":"635988ed-7b55-4670-99b6-b72251b781ca","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:53","correlationId":"9ec93e85-265c-4764-ba31-26494cb06f8d","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:53","correlationId":"9ec93e85-265c-4764-ba31-26494cb06f8d","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:53","correlationId":"9ec93e85-265c-4764-ba31-26494cb06f8d","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:53","correlationId":"ac441d0d-d920-4dd7-860c-a3df08333876","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:53","correlationId":"ac441d0d-d920-4dd7-860c-a3df08333876","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:53","correlationId":"ac441d0d-d920-4dd7-860c-a3df08333876","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:55","correlationId":"bb65e950-dc99-499c-bbfa-548d4d67e6a4","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:55","correlationId":"bb65e950-dc99-499c-bbfa-548d4d67e6a4","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:55","correlationId":"bb65e950-dc99-499c-bbfa-548d4d67e6a4","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:56","correlationId":"eff852d8-822d-446f-ad9c-39a0af8dd925","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:56","correlationId":"eff852d8-822d-446f-ad9c-39a0af8dd925","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:56","correlationId":"eff852d8-822d-446f-ad9c-39a0af8dd925","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:56","correlationId":"a0fca2e3-2c2b-4f7f-9d2b-df0c4f31390b","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:56","correlationId":"a0fca2e3-2c2b-4f7f-9d2b-df0c4f31390b","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:56","correlationId":"a0fca2e3-2c2b-4f7f-9d2b-df0c4f31390b","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:56","correlationId":"15b4b9d1-c5a9-4df7-ac02-78cd0da3b7eb","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:56","correlationId":"15b4b9d1-c5a9-4df7-ac02-78cd0da3b7eb","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:56","correlationId":"15b4b9d1-c5a9-4df7-ac02-78cd0da3b7eb","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:57","correlationId":"055d52ee-4b3e-4072-b357-72a1d2227872","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:57","correlationId":"055d52ee-4b3e-4072-b357-72a1d2227872","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:57","correlationId":"055d52ee-4b3e-4072-b357-72a1d2227872","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:57","correlationId":"b045092d-2ac3-4e53-be8e-a5037ae1335e","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:57","correlationId":"b045092d-2ac3-4e53-be8e-a5037ae1335e","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:57","correlationId":"b045092d-2ac3-4e53-be8e-a5037ae1335e","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"01-31-2026 17:16:58","correlationId":"3f6239fb-06c5-456f-8e38-7d930db0d945","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"01-31-2026 17:16:58","correlationId":"3f6239fb-06c5-456f-8e38-7d930db0d945","data":{}}
+{"level":"info","message":"Ping request received","timestamp":"01-31-2026 17:16:58","correlationId":"3f6239fb-06c5-456f-8e38-7d930db0d945","data":{}}
